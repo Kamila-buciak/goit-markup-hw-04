@@ -213,8 +213,22 @@ a:hover {
 .our-team-icons:focus {
   fill: #2196f3;
   padding: 16px 10px 30px;
-  display: flex;
-  justify-content: space-between;
+}
+.our-customer {
+  padding-top: 94px;
+}
+.our-customer h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  color: #212121;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.icon-logo {
+  border: solid 1px #afb1b8;
+  border-radius: 4px;
+  margin-bottom: 94px;
 }
 
 .footer {
