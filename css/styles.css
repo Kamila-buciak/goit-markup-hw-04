@@ -212,6 +212,7 @@ a:hover {
 }
 .our-team-icons:focus {
   fill: #2196f3;
+  cursor: pointer;
   padding: 16px 10px 30px;
 }
 .our-customer {
@@ -252,6 +253,13 @@ a:hover {
 }
 .footer p {
   color: #ffffff;
+}
+.link {
+  margin-left: 333px;
+  padding-top: 72px;
+  font-size: 14px;
+  line-height: 16px;
+  padding-top: 72px;
 }
 .footer-contact {
   font-size: 14px;
