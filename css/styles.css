@@ -114,6 +114,14 @@ a:hover {
   padding: 10px 41px;
   margin-bottom: 210px;
 }
+
+.icons {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  padding-right: 30px;
+  margin-left: 215px;
+}
 .box {
   width: 1170px;
   height: 101px;
@@ -173,7 +181,7 @@ a:hover {
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
     0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 0px 0px 4px 4px;
-  height: 368px;
+  height: 428px;
   background: #ffffff;
   text-align: center;
   margin-top: 50px;
@@ -201,6 +209,9 @@ a:hover {
   justify-content: space-between;
   padding-right: 215px;
   padding-left: 215px;
+}
+.our-team-icons:focus {
+  fill: #2196f3;
 }
 
 .footer {
