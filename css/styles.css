@@ -119,6 +119,12 @@ a:hover {
   height: 101px;
   display: flex;
 }
+.background-icons {
+  display: flex;
+  width: 270px;
+  height: 120px;
+  color: #f5f4fa;
+}
 .card-set {
   list-style: none;
   display: flex;
