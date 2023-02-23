@@ -39,8 +39,6 @@ a:hover {
   margin-bottom: 32px;
 }
 
-.navigation {
-}
 .navigation-list {
   display: flex;
   list-style: none;
@@ -107,10 +105,9 @@ a:hover {
 .wrapper {
   width: 1600px;
   margin-bottom: 94px;
-  background-color: #2f303a66;
   background: url(https://s3-alpha-sig.figma.com/img/1131/4362/dd953143a8a4d9f86ec8d71afc0e8103?Expires=1678060800&Signature=qvEqLiW9OZU7sxyKeMzbv8aB0H6Ur9QrwBOhBfrPXsLk8IMMv6cQ0IZ6npi58~ZBkx-1fkyqMkiM0PnZ6c~0fq1bJm4XMw7Uxr3y3xuBpG~Odq12a1g9r0daO0BghK3zTplCvLbm~cliwIARcHDRJMJNp3tYYJ-ToljQ-NIiVA1x7q2K1Ex04OEWzWl69-GF9xbr3Lp5EnzMjQaqtiPZcL9LeRwTCzybR76cqTy72ubE8pfycfRsNZI4UaOkiaE11h46imkHK~2cLh-jUQRytA0PxwItqZJKfcjMhddlZwqvCYCM2oafwRWd3YbmqKkKXKJwVkQ4VRb-3mVmJY2-JA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
   background-repeat: no-repeat;
-  background-image: linear-gradient (to right rgba(47, 48, 58, 0.4));
+  background-image: rgba(47, 48, 58, 0.4);
 }
 .main-button {
   background: #2196f3;
@@ -250,14 +247,23 @@ a:hover {
   border-radius: 4px;
   margin-bottom: 94px;
 }
-.icon:hover,
-.icon:focus {
+.icon-logo:hover,
+.icon-logo:focus {
   color: #2196f3;
 }
 
-.footer {
+.footer-container {
   background-color: #2f303a;
   height: 252px;
+}
+.footer-section {
+  display: flex;
+}
+.link {
+  color: white;
+  font-size: 14px;
+  line-height: 16px;
+  padding-top: 72px;
 }
 .footer-logo {
   font-weight: 700;
@@ -266,22 +272,26 @@ a:hover {
   color: #ffffff;
   padding-top: 60px;
   padding-bottom: 20px;
+  margin-left: 215px;
+  margin-right: 171px;
 }
 .footer p {
   color: #ffffff;
 }
-.link {
-  margin-left: 333px;
-  padding-top: 72px;
-  font-size: 14px;
-  line-height: 16px;
-  padding-top: 72px;
+
+.footer-section-two {
+  display: flex;
 }
 .footer-contact {
   font-size: 14px;
   line-height: 1.71;
   color: var(--secondary-color);
   list-style-type: none;
+  margin-left: 215px;
+  margin-right: 82px;
+}
+.footer-icon {
+  padding-top: 36px;
 }
 .address-list {
   padding-bottom: 9px;
