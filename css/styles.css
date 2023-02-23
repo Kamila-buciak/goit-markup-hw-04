@@ -219,10 +219,13 @@ a:hover {
   padding-right: 215px;
   padding-left: 215px;
 }
-.our-team-icons:focus {
+.our-team-icons {
+  fill: #afb1b8;
+  padding: 30px 37px 40px 33px;
+}
+
+.icons:hover {
   fill: #2196f3;
-  cursor: pointer;
-  padding: 16px 10px 30px;
 }
 .our-customer {
   padding-top: 94px;
