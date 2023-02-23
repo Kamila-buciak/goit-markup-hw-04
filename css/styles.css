@@ -226,7 +226,8 @@ a:hover {
   margin-left: 18px;
 }
 
-.our-team-icon:hover {
+.our-team-icon:hover,
+.our-team-icon:focus {
   fill: #2196f3;
 }
 .our-customer {
