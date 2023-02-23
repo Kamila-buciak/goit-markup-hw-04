@@ -201,15 +201,16 @@ a:hover {
   color: var(--main-color);
   font-size: 16px;
   line-height: 1.18;
-  padding: 10px;
   text-align: center;
+  padding-top: 30px;
 }
 .team-people p {
   color: var(--secondary-color);
   font-size: 16px;
   line-height: 1.18;
   text-align: center;
-  padding: 10px;
+  padding-bottom: 30px;
+  padding-top: 10px;
 }
 
 .element-list {
@@ -224,7 +225,7 @@ a:hover {
   padding: 30px 37px 40px 33px;
 }
 
-.icons:hover {
+.our-team-icons:hover {
   fill: #2196f3;
 }
 .our-customer {
