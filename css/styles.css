@@ -220,13 +220,13 @@ a:hover {
   padding-right: 215px;
   padding-left: 215px;
 }
-.our-team-icons {
+.our-team-icon {
   fill: #afb1b8;
   margin-left: 44px;
   margin-right: 33px;
 }
 
-.our-team-icons:hover {
+.our-team-icon:hover {
   fill: #2196f3;
 }
 .our-customer {
