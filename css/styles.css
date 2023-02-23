@@ -222,6 +222,8 @@ a:hover {
 }
 .our-team-icon {
   fill: #afb1b8;
+  margin-right: 18px;
+  margin-left: 18px;
 }
 
 .our-team-icon:hover {
