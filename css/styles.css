@@ -105,9 +105,8 @@ a:hover {
 .wrapper {
   width: 1600px;
   margin-bottom: 94px;
-  background: url(https://s3-alpha-sig.figma.com/img/1131/4362/dd953143a8a4d9f86ec8d71afc0e8103?Expires=1678060800&Signature=qvEqLiW9OZU7sxyKeMzbv8aB0H6Ur9QrwBOhBfrPXsLk8IMMv6cQ0IZ6npi58~ZBkx-1fkyqMkiM0PnZ6c~0fq1bJm4XMw7Uxr3y3xuBpG~Odq12a1g9r0daO0BghK3zTplCvLbm~cliwIARcHDRJMJNp3tYYJ-ToljQ-NIiVA1x7q2K1Ex04OEWzWl69-GF9xbr3Lp5EnzMjQaqtiPZcL9LeRwTCzybR76cqTy72ubE8pfycfRsNZI4UaOkiaE11h46imkHK~2cLh-jUQRytA0PxwItqZJKfcjMhddlZwqvCYCM2oafwRWd3YbmqKkKXKJwVkQ4VRb-3mVmJY2-JA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
-  background-repeat: no-repeat;
-  background-image: rgba(47, 48, 58, 0.4);
+  background-image: url(https://s3-alpha-sig.figma.com/img/1131/4362/dd953143a8a4d9f86ec8d71afc0e8103?Expires=1678060800&Signature=qvEqLiW9OZU7sxyKeMzbv8aB0H6Ur9QrwBOhBfrPXsLk8IMMv6cQ0IZ6npi58~ZBkx-1fkyqMkiM0PnZ6c~0fq1bJm4XMw7Uxr3y3xuBpG~Odq12a1g9r0daO0BghK3zTplCvLbm~cliwIARcHDRJMJNp3tYYJ-ToljQ-NIiVA1x7q2K1Ex04OEWzWl69-GF9xbr3Lp5EnzMjQaqtiPZcL9LeRwTCzybR76cqTy72ubE8pfycfRsNZI4UaOkiaE11h46imkHK~2cLh-jUQRytA0PxwItqZJKfcjMhddlZwqvCYCM2oafwRWd3YbmqKkKXKJwVkQ4VRb-3mVmJY2-JA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+  background-color: rgba(47, 48, 58, 0.4);
 }
 .main-button {
   background: #2196f3;
@@ -278,6 +277,7 @@ a:hover {
   padding-bottom: 20px;
   margin-left: 215px;
   margin-right: 171px;
+  padding-bottom: 20px;
 }
 .footer p {
   color: #ffffff;
