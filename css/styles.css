@@ -128,6 +128,10 @@ a:hover {
   padding-right: 30px;
   margin-left: 215px;
 }
+.icons:hover {
+  fill: #2196f3;
+}
+
 .box {
   width: 1170px;
   height: 101px;
