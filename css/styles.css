@@ -287,11 +287,13 @@ a:hover {
   display: flex;
 }
 .footer-contact {
+  display: inline-block;
   font-size: 14px;
   line-height: 1.71;
   color: var(--secondary-color);
   list-style-type: none;
   margin-left: 215px;
+  margin-right: 82px;
 }
 .footer-icon {
   padding-top: 36px;
