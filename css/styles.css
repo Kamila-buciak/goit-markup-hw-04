@@ -115,6 +115,9 @@ a:hover {
   margin-left: 700px;
 }
 
+.container-icons {
+  padding: 25px;
+}
 .icons {
   display: flex;
   justify-content: space-between;
