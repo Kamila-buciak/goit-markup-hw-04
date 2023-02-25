@@ -281,8 +281,7 @@ a:hover {
   height: 252px;
   width: 1600px;
 }
-.footer-section {
-}
+
 .link {
   color: white;
   font-size: 14px;
@@ -310,8 +309,12 @@ a:hover {
   margin-left: 215px;
 }
 .footer-icon {
-  margin-right: 39px;
-  fill: #afb1b8;
+  border-radius: 50px;
+  color: #2f303a;
+  fill: #ffffffff;
+}
+.footer-icon-icon:focus {
+  fill: #2196f3;
 }
 
 .address-list {
