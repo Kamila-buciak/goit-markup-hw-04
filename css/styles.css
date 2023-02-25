@@ -265,7 +265,6 @@ a:hover {
   height: 252px;
 }
 .footer-section {
-  display: flex;
 }
 .link {
   color: white;
@@ -280,7 +279,6 @@ a:hover {
   padding-top: 60px;
   padding-bottom: 20px;
   margin-left: 215px;
-  margin-right: 171px;
   padding-bottom: 20px;
 }
 .footer p {
@@ -294,7 +292,6 @@ a:hover {
   color: var(--secondary-color);
   list-style-type: none;
   margin-left: 215px;
-  margin-right: 82px;
 }
 .footer-icon {
   margin-right: 39px;
