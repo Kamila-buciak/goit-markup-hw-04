@@ -273,12 +273,12 @@ a:hover {
 .footer-container {
   background-color: #2f303a;
   height: 252px;
+  width: 1600px;
 }
 .footer-container-two {
   background-color: #2f303a;
-  height: 252px;
   padding-top: 72px;
-  padding-left: 171px;
+  height: 252px;
   width: 1600px;
 }
 .footer-section {
@@ -296,8 +296,7 @@ a:hover {
   color: #ffffff;
   padding-top: 60px;
   padding-bottom: 20px;
-  margin-left: 215px;
-  padding-bottom: 20px;
+  padding-left: 215px;
 }
 .footer p {
   color: #ffffff;
