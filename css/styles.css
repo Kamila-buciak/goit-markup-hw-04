@@ -287,6 +287,7 @@ a:hover {
   color: white;
   font-size: 14px;
   line-height: 16px;
+  padding-bottom: 33px;
 }
 .footer-logo {
   font-weight: 700;
@@ -303,7 +304,6 @@ a:hover {
 }
 
 .footer-contact {
-  display: inline-block;
   font-size: 14px;
   line-height: 1.71;
   color: var(--secondary-color);
@@ -312,7 +312,9 @@ a:hover {
 }
 .footer-icon {
   margin-right: 39px;
+  fill: #afb1b8;
 }
+
 .address-list {
   padding-bottom: 9px;
 }
