@@ -308,6 +308,9 @@ a:hover {
   list-style-type: none;
   margin-left: 215px;
 }
+.footer-icon-item {
+  display: flex;
+}
 .footer-icon {
   border-radius: 50px;
   color: #2f303a;
