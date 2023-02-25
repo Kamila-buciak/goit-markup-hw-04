@@ -255,6 +255,10 @@ a:hover {
   color: #2196f3;
 }
 
+.box-footer {
+  display: flex;
+  align-items: center;
+}
 .footer-container {
   background-color: #2f303a;
   height: 252px;
@@ -266,7 +270,6 @@ a:hover {
   color: white;
   font-size: 14px;
   line-height: 16px;
-  padding-top: 72px;
 }
 .footer-logo {
   font-weight: 700;
@@ -283,9 +286,6 @@ a:hover {
   color: #ffffff;
 }
 
-.footer-section-two {
-  margin-left: 530px;
-}
 .footer-contact {
   display: inline-block;
   font-size: 14px;
