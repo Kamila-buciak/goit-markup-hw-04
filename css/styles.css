@@ -235,14 +235,6 @@ a:hover {
   fill: #afb1b8;
 }
 
-.our-team-icon-two:hover,
-.our-team-icon-two:focus {
-  background-color: #2196f3;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-}
-
 .our-team-icon:hover,
 .our-team-icon:focus {
   fill: #ffff;
@@ -281,13 +273,19 @@ a:hover {
 
 .box-footer-container {
   display: flex;
-  align-items: center;
 }
 .footer-container {
   background-color: #2f303a;
   height: 252px;
-  width: 1600px;
   padding-top: 60px;
+}
+
+.footer-container-two {
+  background-color: #2f303a;
+  height: 252px;
+  padding-top: 60px;
+  padding-left: 171px;
+  padding-right: 840px;
 }
 
 .link {
@@ -303,7 +301,7 @@ a:hover {
   line-height: 31px;
   color: #ffffff;
   padding-bottom: 20px;
-  padding-left: 215px;
+  margin-left: 215px;
 }
 .footer p {
   color: #ffffff;
