@@ -235,6 +235,10 @@ a:hover {
   fill: #afb1b8;
 }
 
+.our-team-icon-list {
+  display: flex;
+  list-style-type: none;
+}
 .our-team-icon-two {
   fill: #afb1b8;
 }
