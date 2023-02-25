@@ -250,10 +250,11 @@ a:hover {
   border-radius: 4px;
   margin-bottom: 94px;
   padding: 10px;
+  fill: #afb1b8;
 }
 .icon-logo:hover,
 .icon-logo:focus {
-  color: #2196f3;
+  fill: #2196f3;
 }
 
 .box-footer {
