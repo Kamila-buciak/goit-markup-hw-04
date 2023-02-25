@@ -235,14 +235,21 @@ a:hover {
   fill: #afb1b8;
 }
 
-.our-team-icon:hover,
-.our-team-icon:focus {
+.our-team-icon-two {
+  fill: #afb1b8;
+}
+.our-team-icon-two:hover,
+.our-team-icon-two:hover {
   fill: #ffff;
   background-color: #2196f3;
   width: 40px;
   height: 40px;
   border-radius: 50%;
   cursor: pointer;
+  list-style-type: none;
+}
+.our-team-icon:hover,
+.our-team-icon:focus {
 }
 .our-customer {
   padding-top: 94px;
