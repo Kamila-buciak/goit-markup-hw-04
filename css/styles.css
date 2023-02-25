@@ -31,6 +31,10 @@ a:hover {
   color: #2196f3;
   text-decoration: none;
 }
+
+.icon-svg {
+  fill: #afb1b8;
+}
 .icon-svg:hover,
 .icon-svg:hover {
   fill: #2196f3;
@@ -223,6 +227,10 @@ a:hover {
   justify-content: space-between;
   padding-right: 215px;
   padding-left: 215px;
+}
+.our-team {
+  border-radius: 50px;
+  color: #2196f3;
 }
 .our-team-icon {
   margin-right: 18px;
