@@ -31,6 +31,10 @@ a:hover {
   color: #2196f3;
   text-decoration: none;
 }
+.icon-svg:hover,
+.icon-svg:hover {
+  fill: #2196f3;
+}
 
 .header-container {
   display: flex;
