@@ -235,9 +235,22 @@ a:hover {
   fill: #afb1b8;
 }
 
+.our-team-icon-two:hover,
+.our-team-icon-two:focus {
+  background-color: #2196f3;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
 .our-team-icon:hover,
 .our-team-icon:focus {
-  fill: #2196f3;
+  fill: #ffff;
+  background-color: #2196f3;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
 }
 .our-customer {
   padding-top: 94px;
@@ -281,7 +294,7 @@ a:hover {
   color: white;
   font-size: 14px;
   line-height: 16px;
-  padding-bottom: 33px;
+  padding-bottom: 20px;
   padding-top: 12px;
 }
 .footer-logo {
@@ -312,6 +325,10 @@ a:hover {
   padding: 10px;
   margin-right: 10px;
   cursor: pointer;
+}
+.footer-icon-item:focus,
+.footer-icon-item:hover {
+  background: #2196f3;
 }
 .footer-icon {
   fill: #ffffffff;
