@@ -36,11 +36,7 @@ a:hover {
   fill: #afb1b8;
 }
 .icon-svg:hover,
-.icon-svg:hover {
-  fill: #2196f3;
-}
-
-.header-container {
+.icon-sv .header-container {
   display: flex;
   align-items: center;
   margin-top: 24px;
