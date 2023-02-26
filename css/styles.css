@@ -326,6 +326,20 @@ a:focus {
   margin-right: 10px;
   cursor: pointer;
 }
+.footer-icon-item-portfolio {
+  list-style-type: none;
+  width: 25px;
+  height: 25px;
+  background-color: #ffffff1a;
+  border-radius: 50%;
+  padding: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.footer-icon-item-portfolio:focus,
+.footer-icon-item-portfolio:hover {
+  background: #2196f3;
+}
 .footer-icon-item:focus,
 .footer-icon-item:hover {
   background: #2196f3;
