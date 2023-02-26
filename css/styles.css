@@ -270,6 +270,7 @@ a:hover {
 .icon-logo:hover,
 .icon-logo:focus {
   fill: #2196f3;
+  border: solid 1px #2196f3;
 }
 
 .box-footer-container {
