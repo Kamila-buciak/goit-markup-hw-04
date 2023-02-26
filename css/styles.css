@@ -31,7 +31,9 @@ a:hover {
   color: #2196f3;
   text-decoration: none;
 }
-
+.svg:hover {
+  color: #2196f3;
+}
 .icon-svg {
   fill: #afb1b8;
 }
