@@ -81,6 +81,10 @@ a:focus {
   list-style: none;
   margin-right: 50px;
 }
+.contact-list:hover,
+.contact-link:focus {
+  color: #2196f3;
+}
 
 .contact-link {
   color: #757575;
