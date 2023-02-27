@@ -81,8 +81,9 @@ button:hover {
   list-style: none;
   margin-right: 50px;
 }
-.contact-link:hover,
-.contact-link:focus {
+
+.contact-list:hover,
+.contact-list:focus {
   color: #2196f3;
 }
 
