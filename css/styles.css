@@ -36,17 +36,7 @@ a:focus {
 .icon-svg {
   fill: #afb1b8;
 }
-.svg-icon {
-  fill: #afb1b8;
-}
-.svg-icon:focus,
-.svg-icon:hover {
-  background-color: #2196f3;
-  border-radius: 50%;
-  height: 40px;
-  width: 40px;
-  fill: #fff;
-}
+
 .header-container {
   display: flex;
   align-items: center;
@@ -241,13 +231,15 @@ a:focus {
   margin-left: 18px;
   fill: #afb1b8;
 }
-
-fill: #ffff;
-background-color: #2196f3;
-width: 25px;
-height: 25px;
-border-radius: 50%;
-list-style-type: none;
+.our-team-icon:hover,
+.our-team-icon:focus {
+  fill: #ffff;
+  background-color: #2196f3;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  list-style-type: none;
+}
 
 .our-customer {
   padding-top: 94px;
