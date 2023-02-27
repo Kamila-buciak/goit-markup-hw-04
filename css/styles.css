@@ -77,7 +77,7 @@ button:hover {
   list-style: none;
   margin-right: 50px;
 }
-.contact-list:hover,
+.contact-link:hover,
 .contact-link:focus {
   color: #2196f3;
 }
