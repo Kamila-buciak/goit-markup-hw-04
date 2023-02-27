@@ -36,8 +36,12 @@ a:focus {
 .icon-svg {
   fill: #afb1b8;
 }
-.icon-svg:hover,
-.icon-sv {
+.svg-icon {
+  fill: #afb1b8;
+}
+.svg-icon:focus,
+.svg-icon:hover {
+  fill: #2196f3;
 }
 .header-container {
   display: flex;
