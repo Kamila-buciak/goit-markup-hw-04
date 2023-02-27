@@ -11,6 +11,10 @@ body {
   margin: 0px;
   padding: 0px;
 }
+a:focus,
+a:hover {
+  color: #2196f3;
+}
 .container {
   max-width: 1200px;
   margin: 0 auto;
