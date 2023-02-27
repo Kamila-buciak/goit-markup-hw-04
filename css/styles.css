@@ -218,6 +218,25 @@ a:focus {
   padding-top: 10px;
 }
 
+.team-info {
+  text-align: center;
+}
+.social-icons {
+  display: flex;
+  justify-content: center;
+}
+.social-icons > li {
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  list-style-type: none;
+}
+.social-icons li:hover,
+.social-icons li:focus {
+  background-color: #2196f3;
+  fill: #fff;
+  cursor: pointer;
+}
 .element-list {
   display: flex;
   list-style: none;
@@ -231,8 +250,7 @@ a:focus {
   margin-left: 18px;
   fill: #afb1b8;
 }
-.our-team-icon:hover,
-.our-team-icon:focus {
+ {
   fill: #ffff;
   background-color: #2196f3;
   width: 25px;
