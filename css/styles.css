@@ -36,13 +36,15 @@ a:focus {
 .icon-svg {
   fill: #afb1b8;
 }
-
+.svg-icon {
+  fill: #afb1b8;
+}
 .svg-icon:focus,
 .svg-icon:hover {
   background-color: #2196f3;
   border-radius: 50%;
-  height: 30px;
-  width: 30px;
+  height: 40px;
+  width: 40px;
   fill: #fff;
 }
 .header-container {
