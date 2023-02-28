@@ -94,6 +94,9 @@ button:hover {
   font-size: 14px;
   line-height: 16px;
 }
+.contact-link:hover svg {
+  fill: #2196f3;
+}
 
 .border {
   border: 1px solid #ececec;
@@ -232,20 +235,31 @@ button:hover {
   padding-right: 215px;
   padding-left: 215px;
 }
+.our {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
 
+.our-team-list:hover,
+.our-team-list:focus {
+}
 .our-team-icon {
-  margin-right: 18px;
   margin-left: 18px;
+  margin-right: 18px;
   fill: #afb1b8;
+  background-color: #ffffff;
+  width: 30px;
+  height: 30px;
+  padding: 7px;
 }
 .our-team-icon:hover,
 .our-team-icon:focus {
   fill: #ffff;
   background-color: #2196f3;
-  width: 25px;
-  height: 25px;
+  width: 30px;
+  height: 30px;
   border-radius: 50%;
-  list-style-type: none;
 }
 
 .our-customer {
@@ -291,7 +305,7 @@ button:hover {
   height: 252px;
   padding-top: 60px;
   padding-left: 171px;
-  padding-right: 840px;
+  padding-right: 760px;
 }
 
 .link {
